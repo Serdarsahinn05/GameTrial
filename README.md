@@ -7,10 +7,10 @@ Oyun sadece demo içindir herhangi bir geliştirme söz konusu değildir
 
 ## 📸 Ekran Görüntüleri
 
-<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/main/images/image1.jpg" width="400"/>
-<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/main/images/image2.jpg" width="400"/>
-<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/main/images/image3.jpg" width="400"/>
-<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/main/images/image4.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/images/image1.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/images/image2.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/images/image3.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/Serdarsahinn05/GameTrial/images/image4.jpg" width="400"/>
 
 ---
 
