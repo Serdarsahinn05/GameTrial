@@ -34,5 +34,5 @@ Oyun sadece demo içindir herhangi bir geliştirme söz konusu değildir
 ---
 
 ## 🕹️ Oyunu Oyna
->(Buradan) oyunu oynayabilirsiniz[https://serdarsahinn05.github.io/GameTrial/]
+>[Buradan] oyunu oynayabilirsiniz(https://serdarsahinn05.github.io/GameTrial/)
 
